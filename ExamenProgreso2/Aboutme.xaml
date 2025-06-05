@@ -19,19 +19,19 @@
             <Rectangle Grid.Row="0" Grid.Column="0" Fill="Black"/>
             <Label Text="Nombre: Pablo Montalvo"
            WidthRequest="200" />
-            
-            <Rectangle Grid.Row="0" Grid.Column="1" Fill="White" />
-            <Label Grid.Column="1" Fecha: 05/06/2025"
+
+            <Rectangle Grid.Row="0" Grid.Column="1" Fill="Black" />
+            <Label Grid.Column="1" Text="Fecha:05/06/2025"
             WidthRequest="200" />
-            
-            <Rectangle Grid.Row="1" Grid.Column="0" Fill="Gold" />
-            <Label Grid.Row="1""Intereses: Tecnologia"
+
+            <Rectangle Grid.Row="1" Grid.Column="0" Fill="Black" />
+            <Label Grid.Row="1" Text="Intereses: Tecnologia"
             WidthRequest="200" />
-            
-            <Rectangle Grid.Row="1" Grid.Column="1" Fill="Red"/>
+
+            <Rectangle Grid.Row="1" Grid.Column="1" Fill="Black"/>
             <Label Grid.Column="1"
                    Grid.Row="1"
-                   ="Version 1.0"
+                   Text="Version 1.0"
             WidthRequest="200" />
             
         </Grid>
