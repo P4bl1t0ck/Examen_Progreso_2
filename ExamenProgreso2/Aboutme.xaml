@@ -18,10 +18,10 @@
             <Rectangle Grid.Row="0" Grid.Column="0" Fill="Yellow"/>
             <Label Text="Nombre: Pablo Montalvo"
            WidthRequest="200" />
-            <Rectangle Grid.Row="0" Grid.Column="1" Fill="Red" />
+            <Rectangle Grid.Row="0" Grid.Column="1" Fill="White" />
             <Label Text="Fecha: 05/06/2025"
             WidthRequest="200" />
-            <Rectangle Grid.Row="1" Grid.Column="0" Fill="Red" />
+            <Rectangle Grid.Row="1" Grid.Column="0" Fill="Gold" />
             <Label Text="Intereses: Tecnologia"
             WidthRequest="200" />
             <Rectangle Grid.Row="1" Grid.Column="1" Fill="Red"/>
